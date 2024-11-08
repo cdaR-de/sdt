@@ -1,0 +1,21 @@
+---
+website:
+  favicon: /Users/sidar/Downloads/my-first/logo.png
+---
+
+# Portföyüme Hoş Geldiniz 👋
+
+Merhaba! Ben Sidar, Data Scientist ve veri ile ilgili alanlarda tutkulu ve öğrenmeyi bırakmayan bireyim. Çalışmalarımı, bakış açılarımı ve kaynaklarımı sergilediğim portföyüme hoş geldiniz.
+
+Projelerimi keşfetmekten ve hakkımda daha fazla bilgi edinmekten çekinmeyin!
+
+------------------------------------------------------------------------
+
+## Keşfet
+
+-   [Projeler](projects.qmd): Üzerinde çalıştığım, teknolojiye göre kategorize edilmiş çeşitli projeleri keşfedin.
+-   [Hakkımda](about.qmd): Geçmişim, becerilerim ve ilgi alanlarım hakkında daha fazla bilgi edinin.
+
+------------------------------------------------------------------------
+
+Portföyümü ziyaret ettiğiniz için teşekkür ederim. Yeni fikirler veya iş birliği fırsatları hakkında bağlantı kurmaya her zaman açığım. Bana [**About**](about.qmd) üzerinden ulaşabilirsiniz

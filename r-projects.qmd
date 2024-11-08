@@ -1,0 +1,27 @@
+---
+title: "R Projects"
+format: html
+---
+
+# R Projects 🧮
+
+Aşağıda R ile yapılmış projeler listelenmektedir:
+
+
+## Project 1: Data Analysis in R
+
+![Project 1 Preview](images/gerekli.png)
+
+This project focuses on data analysis using R. A brief description of the project goals, methods, and outcomes is provided below: - **Tools Used**: R, dplyr, ggplot2 - **Highlights**: Developed a robust data analysis pipeline that improves decision-making.
+
+[See Project Details](assets/sunum.html)
+
+------------------------------------------------------------------------
+
+### Project 2: Statistical Modeling in R
+
+![Project 2 Preview](images/stat-modeling-preview.jpg)
+
+This project is about building statistical models using R to predict trends in sales data. - **Tools Used**: R, lm(), caret - **Outcome**: Achieved 85% accuracy in predicting future trends.
+
+[See Project Details](project2.qmd)

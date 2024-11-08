@@ -1,0 +1,8 @@
+---
+title: "Project 1: Data Analysis in R"
+format: html
+---
+
+# Project 1: Data Analysis in R
+
+Bu proje R kullanarak veri analizi üzerine yapılmıştır. Proje detayları, kod blokları ve görseller burada bulunabilir.

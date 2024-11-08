@@ -1,0 +1,24 @@
+---
+title: "Projects"
+---
+# All Projects 📂
+
+Explore my projects by category. Click on any category to see the detailed projects.
+
+------------------------------------------------------------------------
+
+## [R Projects 🧮](r-projects.qmd)
+
+Projects created using R, focusing on data analysis, visualization, and statistical modeling.
+
+------------------------------------------------------------------------
+
+## [Python Projects 🐍](python_projects.qmd)
+
+Projects using Python, covering machine learning, data processing, and automation.
+
+------------------------------------------------------------------------
+
+## [Other Projects 🌐](other_projects.qmd)
+
+Projects built with various tools and technologies, showcasing a range of skills.
