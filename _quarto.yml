@@ -56,7 +56,7 @@ format:
     theme:
       light: [cosmo]
       dark: [darkly]
-    css: styles.scss
+    css: styles1.css
     toc: true
     highlight-style: a11y-dark
     mainfont: "Atkinson Hyperlegible"
