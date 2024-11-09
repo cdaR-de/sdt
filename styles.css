@@ -1,0 +1,274 @@
+/* Google Fonts - Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+/* Genel Gövde ve Arka Plan Ayarları */
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #1A1A1A;
+    background-color: #F5F5F5;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Karanlık Mod */
+body.dark-mode {
+    background-color: #1A1A1A;
+    color: #F5F5F5;
+}
+
+/* Başlıklar */
+h1, h2, h3, h4 {
+    color: #333333;
+    font-weight: 600;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #FFD700; /* Parlak Sarı */
+}
+
+h2 {
+    font-size: 2em;
+    color: #6A0DAD; /* Koyu Mor */
+}
+
+h3 {
+    font-size: 1.5em;
+    color: #333333;
+}
+
+body.dark-mode h1, body.dark-mode h2, body.dark-mode h3, body.dark-mode h4 {
+    color: #FFD700; /* Karanlık mod başlık rengi */
+}
+
+/* Metin Ayarları */
+p {
+    font-size: 1.1em;
+    margin: 0.5em 0;
+}
+
+/* Linkler */
+a {
+    color: #6A0DAD;
+    text-decoration: none;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+a:hover {
+    color: #FFD700;
+    transform: scale(1.05);
+    text-decoration: underline;
+}
+
+body.dark-mode a {
+    color: #FFD700;
+}
+
+body.dark-mode a:hover {
+    color: #6A0DAD;
+}
+
+/* Butonlar */
+.button {
+    background-color: #FFD700;
+    color: #333333;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 12px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.button:hover {
+    background-color: #6A0DAD;
+    color: #ffffff;
+    transform: translateY(-3px);
+}
+
+/* Tema Değiştirme Butonu - Sayfanın En Altında */
+/* Tema Değiştirme Butonu - Sağ Orta Konumda Sabit */
+button.theme-toggle {
+    position: fixed;
+    top: 50%;            /* Dikeyde sayfanın ortasına yerleştir */
+    right: 20px;         /* Sağdan 20px boşluk bırak */
+    padding: 10px 20px;
+    background-color: #333;
+    color: #FFD700;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    z-index: 1000;       /* Diğer ögelerin üstünde görünmesi için */
+    transform: translateY(-50%); /* Dikeyde ortalamak için */
+}
+
+/* Hover Efekti */
+button.theme-toggle:hover {
+    background-color: #FFD700;
+    color: #333;
+}
+
+/* Karanlık Modda Tema Değiştirme Butonu */
+body.dark-mode button.theme-toggle {
+    background-color: #FFD700;
+    color: #333;
+}
+
+body.dark-mode button.theme-toggle:hover {
+    background-color: #333;
+    color: #FFD700;
+}
+
+
+/* Proje Kartları */
+.project-card {
+    border: 1px solid #E0E0E0;
+    border-radius: 15px;
+    padding: 20px;
+    margin-bottom: 16px;
+    background-color: #ffffff;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.15);
+}
+
+.project-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 1em;
+}
+
+.project-card h3 {
+    margin-top: 0;
+    font-size: 1.6em;
+    color: #6A0DAD;
+}
+
+body.dark-mode .project-card {
+    background-color: #2A2A2A;
+    border: 1px solid #444444;
+    color: #F5F5F5;
+}
+
+/* Navbar */
+.navbar {
+    background-color: #333333;
+    color: #ffffff;
+    padding: 1em;
+    text-align: center;
+    border-bottom: 4px solid #FFD700;
+}
+
+.navbar a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: 500;
+    transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+.navbar a:hover {
+    color: #FFD700;
+    border-bottom: 2px solid #FFD700;
+}
+
+body.dark-mode .navbar {
+    background-color: #000000;
+    border-bottom: 4px solid #FFD700;
+}
+
+body.dark-mode .navbar a {
+    color: #FFD700;
+}
+
+body.dark-mode .navbar a:hover {
+    color: #6A0DAD;
+}
+
+/* Öne Çıkan Bölüm */
+.featured-section {
+    padding: 2em;
+    background-color: #F5F5F5;
+    border-radius: 10px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.05);
+    margin-bottom: 2em;
+}
+
+body.dark-mode .featured-section {
+    background-color: #333333;
+}
+
+/* Sosyal Medya İkonları */
+.social-icons {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.social-icons a {
+    color: #6A0DAD;
+    font-size: 1.5em;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #FFD700;
+    transform: scale(1.1);
+}
+
+body.dark-mode .social-icons a {
+    color: #FFD700;
+}
+
+/* Footer */
+.footer {
+    background-color: #333333;
+    color: #ffffff;
+    text-align: center;
+    padding: 1em;
+    font-size: 0.9em;
+}
+
+.footer a {
+    color: #FFD700;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.footer a:hover {
+    color: #6A0DAD;
+}
+
+body.dark-mode .footer {
+    background-color: #000000;
+    color: #FFD700;
+}
+
+body.dark-mode .footer a {
+    color: #FFD700;
+}
+
+/* Genel Kenar Boşlukları ve Yuvarlatmalar */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.rounded {
+    border-radius: 15px;
+}

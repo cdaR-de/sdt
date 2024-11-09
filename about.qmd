@@ -1,0 +1,48 @@
+
+# Hakkımda ✨
+
+Quarto siteme hoş geldiniz! Ben Sidar 👋, karmaşık veri setlerinden içgörüler çıkarma konusunda gelişen, veri tutkunu bir geliştiriciyim. Veri görselleştirme 📊 ve görüntü işleme alanında çalışıyorum; amacım veriyi anlaşılır ve eyleme geçirilebilir hale getirmek.
+
+## Profesyonel Geçmiş 💼
+
+**İstatistik** temelinde inşa ettiğim kariyerim, **Data Science** konusundaki geniş deneyimlerimle şekillendi. Mesleki yolculuğum boyunca, veri bilimi ve iş ihtiyaçları arasında köprü kurarak veri odaklı karar alma süreçlerini herkes için erişilebilir hale getirmeye çalıştım.
+
+## Beceriler ve İlgi Alanları 🛠️
+
+İşte uzmanlık alanlarım ve ilgi duyduğum konular hakkında kısa bir özet:
+
+- 🚀 **Veri Bilimi ve Makine Öğrenimi**: Gerçek dünya sorunlarını çözmek için makine öğrenimi algoritmalarını uygulama yetkinliği.
+- 🎨 **Veri Görselleştirme**: Veri içgörülerini etkili bir şekilde aktarmak için sezgisel görselleştirmeler oluşturma.
+- 💻 **Teknik Beceriler**: R, Python, SQL, Tableau ve veri analizi için gerekli diğer araçlarda yetkinlik.
+- 📚 **Sürekli Öğrenme**: Makine öğrenimi, yapay zeka ve büyük veri teknolojilerinde bilgimi genişletmeye tutkuyla bağlıyım.
+
+## Eğitim 🎓
+
+- İstatistik Pr.   
+  Hacettepe Üniversitesi - Mezuniyet Yılı: 2025
+
+## Bağlantı Kurun 🤝
+
+Benzer görüşteki profesyonellerle bağlantı kurmaya ve yeni fırsatları keşfetmeye her zaman açığım. Sosyal platformlarım üzerinden bana ulaşabilirsiniz:
+
+<div style="display: flex; gap: 15px;">
+  <a href="https://github.com/cdaR-de" target="_blank" style="text-decoration: none; color: #333; font-size: 1.2em;">
+    <i class="fab fa-github" style="font-size: 1.5em; vertical-align: middle;"></i> GitHub
+  </a>
+  <a href="https://www.linkedin.com/in/sidar-deniz-topaloğlu/" target="_blank" style="text-decoration: none; color: #0077B5; font-size: 1.2em;">
+    <i class="fab fa-linkedin" style="font-size: 1.5em; vertical-align: middle;"></i> LinkedIn
+  </a>
+  <a href="https://rpubs.com/cdar" target="_blank" style="text-decoration: none; color: orange; font-size: 1.2em;">
+    <i class="fas fa-link" style="font-size: 1.5em; vertical-align: middle;"></i> RPubs
+  </a>
+</div>
+
+## Kişisel Bilgiler 🌟
+
+- 📍 **Konum**: Ankara, İstanbul bazlı, küresel fırsatlara açık.
+- ❤️ **Tutkular**: Veri hikayeleştirme, veri teknolojilerinde yenilikçilik ve karar vericilere eyleme dönüştürülebilir içgörüler sağlama.
+- 🌍 **Hobiler**: Seyahat, Doğa Yürüyüşü, Kamp, Doğa aktiviteleri 
+
+---
+
+Sitemi ziyaret ettiğiniz için teşekkür ederim! 😊 Veri, projeler veya potansiyel iş birliği hakkında konuşmak isterseniz lütfen benimle iletişime geçin.
