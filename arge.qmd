@@ -1,2 +1,0 @@
-## 👽 Arge Hazırlanıyor 👽
-<script src="theme-toggle.js"></script>
